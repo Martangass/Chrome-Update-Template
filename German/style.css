@@ -1,0 +1,263 @@
+/* Code von Martangass */
+/* GitHub: https://github.com/Martangass */
+
+/* NUR FÜR BILDUNGSZWECKE */
+
+
+
+
+/* Allgemein */
+* {
+
+    /* Schriftart */
+    font-family: "Google Sans",arial,sans-serif;
+
+    /* Hintergrundfarbe */
+    background: white;
+}
+
+
+
+
+/* Logo Container */
+.logo-div {
+
+    /* Abstand von oben */
+    padding-top: 60px;
+
+    /* Anpassbare elemente */
+    display: flex;
+
+    /* Breite */
+    width: 100%;
+
+    /* Höhe */
+    height: 91.9px;
+
+    /* Position X-Achse Inhalt */
+    justify-content: center;
+
+    /* Position Y-Achse Inhalt */
+    align-items: center;
+
+    /* Hintergrundfarbe */
+    background-color: transparent;
+}
+
+
+
+
+/* Logo Aussehen*/
+.chrome-logo {
+
+    /* Abstand um den Container */
+    padding: 20px;
+
+    /* Breit */
+    width: 80px;
+
+    /* Höhe */
+    height: 80px;
+
+    /* Hintergrundfarbe */
+    background-color: transparent;
+}
+
+
+
+
+/* Überschrift Container */
+.head-txt-div {
+
+    /* Abstand um den Container */
+    padding: 10px;
+
+    /* Anpassbare elemente */
+    display: flex;
+
+    /* Position X-Achse Inhalt */
+    justify-content: center;
+
+    /* Position Y-Achse Inhalt */
+    align-items: center;
+
+    /* Abstand zum element darüber */
+    padding-top: 30px;
+
+    /* Hintergrundfarbe */
+    background-color: transparent;
+
+    /* Breite */
+    width: 100%;
+
+    /* Höhe */
+    height: 72px;
+}
+
+
+
+
+/* Überschrift */
+.head-txt {
+
+    /* Position X-Achse element */
+    justify-self: center;
+
+    /* Schrift dicke (Bold) */
+    font-weight: lighter;
+}
+
+
+
+
+/* Knopf Container */
+.button-div {
+
+    /* Anpassbare elemente */
+    display: flex;
+
+    /* Position X-Achse */
+    justify-content: center;
+
+    /* Position Y-Achse */
+    align-items: center;
+
+    /* Abstand um den Container */
+    padding: 20px;
+}
+
+
+
+
+/* Knopf */
+.button{
+
+    /* Schriftfarbe */
+    color: white;
+
+    /* Knopffarbe */
+    background-color: #1967d2;
+
+    /* Höhe */
+    height: 46px;
+
+    /* Breite */
+    width: 214.07px;
+
+    /* Runde Kanten */
+    border-radius: 25px;
+
+    /* Ausenlinie */
+    outline: none;
+
+    /* Ausenlinie */
+    border: none;
+
+    /* Schriftart */
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+
+    /* Schriftgröße */
+    font-size: 18px;
+}
+
+
+
+
+/* Knopf beim Berühren */
+.button:hover {
+
+    /* Zeiger wird zum zeigefinger */
+    cursor: pointer;
+}
+
+
+
+
+/* AGB Container */
+.AGB-div {
+
+    /* Position X-Achse */
+    justify-content: center;
+
+    /* Position Y-Achse */
+    align-items: center;
+
+    /* Anpassbare elemente */
+    display: flex;
+
+    /* Schriftgröße */
+    font-size: .625rem;
+}
+
+
+
+
+/* AGB text */
+.AGB {
+
+    /* Anpassbare elemente */
+    display: flexbox;
+
+    /* Schriftfarbe */
+    color: #3c4043;
+
+    /* Position X-Achse */
+    justify-content: center;
+
+    /* Position Y-Achse */
+    align-items: center;
+}
+
+
+
+
+/* AGB Link elenente */
+.AGB a {
+
+    /* Link aussehen */
+    text-decoration: none;
+
+    /* Link farbe */
+    color: #1967d2;
+}
+
+
+
+
+/* Chrome laptop Container */
+.chrome-laptop-div {
+
+    /* Anpassbare elemente */
+    display: flex;
+
+    /* abstand vom oberen element */
+    margin-top: 30px;
+
+    /* abstand um den Container */
+    padding: 25px;
+
+    /* Höhe */
+    width: 100%;
+
+    /* Position X-Achse */
+    justify-content: center;
+
+    /* Position Y-Achse */
+    align-items: center;
+}
+
+
+
+
+/* Chrome laptop Bild */
+.chrome-laptop {
+
+    /* Breite */
+    width: 712.34px;
+
+    /* Höhe */
+    height: 434.69px;
+}
+
+
+
